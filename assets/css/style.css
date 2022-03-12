@@ -11,7 +11,7 @@ body {
 	margin: auto;
 	width: 80%;
 	border: 1px dashed rgba(255,255,255,0.7);
-	font-family: "Consolas";
+	font-family: monospace;
 }
 
 header, nav, main, footer {
